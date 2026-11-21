@@ -1,0 +1,2306 @@
+{
+ "version": "fb9a282c",
+ "n_turns": 10,
+ "chains": [
+  {
+   "id": "c01",
+   "instructions": [
+    "Add a wooden log lying on the concrete ground below the gray elephant.",
+    "Change the tall pine tree at the far left to orange.",
+    "Make the elephant look like it is carved from polished marble.",
+    "Place a blue bucket on the concrete ground to the right of the elephant.",
+    "Make the elephant pink.",
+    "Replace the elephant with a rhinoceros.",
+    "Add a red traffic cone on the concrete ground at the lower left.",
+    "Add a hay bale on the concrete ground in the lower middle of the photo.",
+    "Add a small bird sitting on top of the mossy rock at the upper left.",
+    "Make the large leafy tree at the upper right look like it is made of glass."
+   ]
+  },
+  {
+   "id": "c02",
+   "instructions": [
+    "Change the color of the scarf around the skier's neck to pink.",
+    "Make both ski poles look like shiny metal instead of wood.",
+    "Add a small bird flying in the clear blue sky at the upper right.",
+    "Change the color of the large steam locomotive on the left to green.",
+    "Add a small kite in the open sky below the scarf arc, left of her head.",
+    "Replace the green steam locomotive in the background with a green tram.",
+    "Add a small fir tree on the open white snow slope at the right side.",
+    "Remove the black script word at the lower left of the poster.",
+    "Replace the metal ski pole held upright on the left with a walking cane.",
+    "Replace the pink scarf around the skier's neck with a satin ribbon."
+   ]
+  },
+  {
+   "id": "c03",
+   "instructions": [
+    "Add a pigeon standing on the empty brick pavement in the middle of the path.",
+    "Change the color of the black t-shirt to green.",
+    "Add an orange traffic cone on the empty pavement toward the right side of the path.",
+    "Change the color of the black crossbody bag and its strap to white.",
+    "Add a small dog standing on the bare pavement in the center of the path.",
+    "Make the green t-shirt look like it is made of linen.",
+    "Add a green litter bin on the empty pavement near the middle of the path.",
+    "Replace the green linen shirt worn by the walking person with a navy hoodie.",
+    "Add a skateboard lying on the empty brick pavement in the lower middle of the path.",
+    "Make the white crossbody bag look like it is made of leather."
+   ]
+  },
+  {
+   "id": "c04",
+   "instructions": [
+    "Change the serrated bread knife to a green color.",
+    "Add a small wooden cutting board on the red wall below the bread knife.",
+    "Make the larger middle kitchen knife look like it is made of copper.",
+    "Add a yellow lemon to the right of the smaller upper kitchen knife.",
+    "Add a bunch of fresh parsley on the empty red wall in the lower right.",
+    "Add a small saucepan on the empty red wall in the top right corner.",
+    "Change the smaller upper kitchen knife to a black color.",
+    "Add a wooden pepper grinder to the right of the larger middle kitchen knife.",
+    "Make the green bread knife look like it is made of polished brass.",
+    "Replace the smaller black kitchen knife at the top with a metal spatula."
+   ]
+  },
+  {
+   "id": "c05",
+   "instructions": [
+    "Change the color of the leg guard on the batter's front leg to red.",
+    "Add a white baseball on the dirt to the right of the cleat on the right.",
+    "Add a wooden baseball bat lying on the empty dirt along the bottom center of the photo.",
+    "Change the color of the sock on the right leg to red.",
+    "Add an orange water cooler on the green dugout ledge to the right of the seated dugout player.",
+    "Replace the blue baseball cap on the dugout player with a straw hat.",
+    "Replace the black catcher's mitt on the right edge with a red boxing glove.",
+    "Replace the dugout player's blue jersey with a white hooded sweatshirt.",
+    "Replace the red leg guard on the batter's front leg with a black ankle brace.",
+    "Change the color of the batter's jersey to green."
+   ]
+  },
+  {
+   "id": "c06",
+   "instructions": [
+    "Add a small framed poster on the empty wall to the left of the t-shirt.",
+    "Change the color of the t-shirt to blue.",
+    "Make the sequin lettering on the t-shirt red.",
+    "Change the color of the clothes hanger to black.",
+    "Change the material of the t-shirt to shiny silk.",
+    "Add a round wall clock on the empty wall to the left of the hanger.",
+    "Replace the black clothes hanger with a wooden clothes hanger.",
+    "Add a small wall-mounted shelf on the empty lower-left wall panel.",
+    "Change the lettering on the t-shirt to matte embroidery thread.",
+    "Replace the hanging silk t-shirt with a denim jacket."
+   ]
+  },
+  {
+   "id": "c07",
+   "instructions": [
+    "Add a small potted plant on the floor to the right of the green ottoman.",
+    "Change the color of the orange chair in the bottom left corner to blue.",
+    "Make the woman's white blouse yellow.",
+    "Change the woman's checkered romper to red.",
+    "Make the green ottoman cushion look like it is made of thick wool.",
+    "Add a white paper lantern hanging in the empty space to the right of the woman's top.",
+    "Replace the blue chair in the bottom left corner with a wooden stool.",
+    "Add a small hanging plant in the empty space to the left of the woman's top.",
+    "Replace the woman's yellow top with a knit sweater.",
+    "Replace the woman's red romper with denim overalls."
+   ]
+  },
+  {
+   "id": "c08",
+   "instructions": [
+    "Add a small brown dog on the path to the left of the gray jacket.",
+    "Add a hawk flying in the blue sky in the upper left corner.",
+    "Change the black pants worn by the woman on the right to red.",
+    "Add a small rabbit on the dirt to the left of the black puffer jacket.",
+    "Make the red pants worn by the woman on the right look like leather.",
+    "Change the gray jacket worn by the woman on the right to yellow.",
+    "Replace the yellow jacket worn by the woman on the right with a denim jacket.",
+    "Replace the red leather pants worn by the woman on the right with khaki cargo pants.",
+    "Change the black puffer jacket worn by the smiling woman on the left to orange.",
+    "Make the orange puffer jacket worn by the smiling woman on the left look like shiny vinyl."
+   ]
+  },
+  {
+   "id": "c09",
+   "instructions": [
+    "Change the knit gray sweater to green.",
+    "Add a white duck swimming on the open canal water at the lower right.",
+    "Change the leather black jacket to suede.",
+    "Add a wooden bench on the grassy path in the left background.",
+    "Add a small red canoe floating on the canal water near the bottom right.",
+    "Change the suede jacket worn by the woman to brown.",
+    "Replace the green sweater with a white turtleneck.",
+    "Replace the brown jacket the woman is wearing with a yellow raincoat.",
+    "Change the red backpack on the woman's shoulder to blue.",
+    "Change the blue backpack on the woman's shoulder to leather."
+   ]
+  },
+  {
+   "id": "c10",
+   "instructions": [
+    "Make both white boots on the standing woman red.",
+    "Add a small black cat sitting in the empty white area at the lower right.",
+    "Add a small potted plant in the empty white area at the lower left.",
+    "Change the gold dress on the dancing woman at the left to green.",
+    "Add a single red balloon in the empty white space at the upper right.",
+    "Replace the gold high heel shoes on the dancing woman at the left with white sneakers.",
+    "Make the black vertical-barred grille at the center look like carved wood.",
+    "Make both red boots on the standing woman shiny patent leather.",
+    "Replace the green dress on the dancing woman at the left with a striped dress.",
+    "Replace both shiny boots on the standing woman with black sandals."
+   ]
+  },
+  {
+   "id": "c11",
+   "instructions": [
+    "Change the color of the ceiling fan at the top of the photo to white.",
+    "Make the ceiling fan at the top of the photo look like it is made of wood.",
+    "Add a small round wall clock on the blank white wall just to the right of the person's ear.",
+    "Add a small framed photo on the blank white wall in the upper middle right, between the person's head and the large picture frame.",
+    "Add a paper calendar on the blank white wall at the far right edge, above the person's shoulder.",
+    "Replace the wooden ceiling fan at the top of the photo with a round paper lantern.",
+    "Replace the water bottle on the counter at the lower left with a glass jar.",
+    "Change the color of the wall-mounted flat screen television on the left to silver.",
+    "Make the wall-mounted television on the left look like it is made of wood.",
+    "Write the word \"Hello\" on the front of the wall-mounted television on the left."
+   ]
+  },
+  {
+   "id": "c12",
+   "instructions": [
+    "Add a small helicopter flying in the blue sky above the large glass office building.",
+    "Add a striped hot air balloon in the empty sky to the right of the white office building.",
+    "Change the black logo sign on the top of the large building to red.",
+    "Change the large glass office building in the center so it is made of brick.",
+    "Make the red logo sign on the top of the building look like it is made of wood.",
+    "Replace the wooden square sign on the rooftop with a rectangular LED screen.",
+    "Change the color of the large brick office building in the center to gray.",
+    "Add a small passenger airplane flying in the clear sky above the building on the left edge.",
+    "Make the white office building on the left edge of the photo beige.",
+    "Replace the beige building on the left edge of the photo with a red brick apartment building."
+   ]
+  },
+  {
+   "id": "c13",
+   "instructions": [
+    "Change the color of the paisley tie to green.",
+    "Add a small framed certificate on the blue background in the upper left corner.",
+    "Change the color of the glasses frames to red.",
+    "Make the tie look like it is made of leather.",
+    "Make the glasses frames look like shiny polished gold metal.",
+    "Add a round wall clock on the blue background in the upper right corner.",
+    "Add a single yellow helium balloon floating in the empty blue space to the left of the man's face.",
+    "Add a small paper airplane flying in the empty blue space to the right of the man's head.",
+    "Add a small bird flying in the blue space to the right of the man's neck.",
+    "Replace the glasses with a pair of dark sunglasses."
+   ]
+  },
+  {
+   "id": "c14",
+   "instructions": [
+    "Change the color of the pink phone case to green.",
+    "Add a small framed picture hanging on the empty white wall at the top left.",
+    "Change the color of the black shirt to red.",
+    "Make the red shirt look like it is made of velvet.",
+    "Change the color of the blue lettering on the glass at the top to orange.",
+    "Replace the orange lettering on the glass at the top with a small wooden plaque.",
+    "Add a wall calendar hanging on the empty white wall at the lower left.",
+    "Replace the red velvet shirt visible at the lower right with a gray hoodie.",
+    "Add a small round wall clock on the bare white wall at the middle left.",
+    "Make the green phone case look like it is made of leather."
+   ]
+  },
+  {
+   "id": "c15",
+   "instructions": [
+    "Change the color of both red silk hair ribbons to blue.",
+    "Make both black hair buns look like they are made of knitted wool.",
+    "Change the color of the black hair to brown.",
+    "Add a small yellow butterfly in the empty space to the right of the hair.",
+    "Add a small red paper lantern in the empty space to the left of the hair.",
+    "Add a small white cloud in the empty space below the blue ribbon on the right side.",
+    "Replace the blue ribbon hanging on the left side with a gold tassel.",
+    "Replace the hair bun on the right side with a pink peach.",
+    "Remove the black text caption at the top of the image.",
+    "Make the brown hair look like shiny satin."
+   ]
+  },
+  {
+   "id": "c16",
+   "instructions": [
+    "Add a small wooden signpost on the bare dirt slope in the middle right.",
+    "Change the color of the green pine branch to yellow.",
+    "Change the color of the black knit fleece liner to orange.",
+    "Change the material of the orange liner to leather.",
+    "Add a small orange traffic cone on the dry dirt ground at the lower middle right.",
+    "Replace the yellow pine branch with a bamboo stalk.",
+    "Replace the leather liner with a wool scarf.",
+    "Change the color of the gray collar to red.",
+    "Add a small cardboard box on the bare dirt ground to the right of the slope's center.",
+    "Change the material of the red collar to corduroy."
+   ]
+  },
+  {
+   "id": "c17",
+   "instructions": [
+    "Add a small potted plant on the bare floor to the right of the rug.",
+    "Change the lamp shade to yellow.",
+    "Make the base of the table lamp blue.",
+    "Paint the dresser white.",
+    "Add a small round pouf on the rug to the left of the black wire side table.",
+    "Replace the green metal chair with a black office chair.",
+    "Replace the curtain over the window with a white roller blind.",
+    "Replace the blue lamp base with a brass lamp base.",
+    "Add a small woven basket on the bare floor above the left part of the rug.",
+    "Replace the black wire side table with a small round wooden stool."
+   ]
+  },
+  {
+   "id": "c18",
+   "instructions": [
+    "Add a small drone hovering in the empty dark sky at the top right corner.",
+    "Add a wooden supply crate in the empty starry area at the bottom right corner.",
+    "Change the color of the black assault rifle held by the left soldier to brown.",
+    "Make the blue jacket worn by the soldier on the left look like leather.",
+    "Add a small hawk flying in the empty dark sky at the top center of the image.",
+    "Replace the brown rifle held by the soldier on the left with a crossbow.",
+    "Change the white CS GO lettering at the bottom to yellow.",
+    "Remove the yellow CS GO lettering from the bottom of the image.",
+    "Change the color of the leather jacket worn by the soldier on the left to red.",
+    "Replace the blue jacket worn by the soldier on the right with a green parka."
+   ]
+  },
+  {
+   "id": "c19",
+   "instructions": [
+    "Add a small bird flying in the clear blue sky at the upper right.",
+    "Change the color of the large school sign to red.",
+    "Change the leaves of the yellow-green leafy tree at the far left edge to red.",
+    "Add a red balloon floating in the open sky at the left side of the image.",
+    "Make the red-leaved tree at the far left edge look like it is made of crystal glass.",
+    "Replace the glass-looking tree at the far left edge with a tall palm tree.",
+    "Change the text on the large red sign to say SLOW.",
+    "Replace the small white no-parking sign at the bottom right with a blue street name sign.",
+    "Make the large red SLOW sign look like it is made of wood.",
+    "Add a small airplane in the clear blue sky at the upper left corner."
+   ]
+  },
+  {
+   "id": "c20",
+   "instructions": [
+    "Place a red rubber ball on the floor to the right of the child's shorts.",
+    "Change the color of the child's shorts to blue.",
+    "Make the orange curtain in the background look like thick velvet.",
+    "Add a small potted plant on the empty floor in the bottom right corner.",
+    "Change the color of the bookshelf on the left to white.",
+    "Add a small toy car on the empty floor just left of the table's front leg.",
+    "Replace the child's blue shorts with long denim jeans.",
+    "Make the white bookshelf on the left look like it is made of glossy plastic.",
+    "Replace the bookshelf on the left with a metal storage rack.",
+    "Replace the velvet curtain in the background with white window blinds."
+   ]
+  },
+  {
+   "id": "c21",
+   "instructions": [
+    "Place a small potted plant on the wooden floor behind the railing at the far left.",
+    "Change the light blue denim shorts to black.",
+    "Add a small gift box on the wooden floor to the left of the black shorts.",
+    "Make the metal silver railing look like polished brass.",
+    "Add a hanging paper lantern in the empty ceiling area at the top left corner.",
+    "Change the brass railing in the foreground to green.",
+    "Replace the green railing in the foreground with a wooden railing.",
+    "Make the black shorts look like they are made of leather.",
+    "Replace the black leather shorts with plain blue jeans.",
+    "Change the white crossbody bag at the bottom to tan."
+   ]
+  },
+  {
+   "id": "c22",
+   "instructions": [
+    "Change the pink-haired girl's light blue sailor uniform top to purple.",
+    "Add a small yellow butterfly in the sky above the pink flower bud at the top left.",
+    "Change the large pink flower in the middle of the left edge to yellow.",
+    "Make the girl's sailor uniform top look like shiny silk.",
+    "Make the large pink flower on the branch at the upper right, beside the leaves, look like paper.",
+    "Add a small bluebird in the pale blurry background at the right edge, between the upper branch and the lower leaves.",
+    "Add a small ladybug resting on the girl's broad sleeve, low near her elbow.",
+    "Add a small bee on the girl's upper shoulder, just below her collar.",
+    "Replace the pink flower at the bottom edge, near the bottom center-left, with a white daisy.",
+    "Add a small dragonfly in the open sky at the top, right of the white hair flowers."
+   ]
+  },
+  {
+   "id": "c23",
+   "instructions": [
+    "Change the color of the rider's plaid flannel shirt to green.",
+    "Make the rider's jeans look like they are made of corduroy.",
+    "Add a small orange butterfly hovering over the open grass at the lower right.",
+    "Change the color of the rider's pants to black.",
+    "Make the rider's shirt look like it is made of shiny satin.",
+    "Replace the rider's shirt with a denim jacket.",
+    "Replace the rider's pants with leather riding chaps.",
+    "Add a small wooden signpost standing in the grass at the lower left, beside the dirt path.",
+    "Add a small bunch of yellow wildflowers in the grass at the far lower right.",
+    "Change the color of the large leafy shrub on the far left edge to yellow."
+   ]
+  },
+  {
+   "id": "c24",
+   "instructions": [
+    "Add a small bird flying in the bright sky seen through the large window at the upper right.",
+    "Change the orange stripes on the front boy's shirt to green.",
+    "Make the front desk in the foreground look like dark metal instead of wood.",
+    "Make the plaid shirt on the boy at the right look like thick wool.",
+    "Add a round wall clock on the empty cream wall panel between the two tall windows.",
+    "Add a small hot air balloon in the bright sky seen through the tall window on the left.",
+    "Remove the wooden bookshelf at the upper left of the photo.",
+    "Replace the thick shirt worn by the boy at the right with a denim jacket.",
+    "Replace the front boy's striped top with a gray hooded sweatshirt.",
+    "Replace the front desk in the foreground with a gray laminate school desk."
+   ]
+  },
+  {
+   "id": "c25",
+   "instructions": [
+    "Add a water bottle on the grass to the right of the black guitar case.",
+    "Change the gray pants to blue.",
+    "Make the black guitar strap look like it is made of leather.",
+    "Add a small bird flying in the open sky between the trees.",
+    "Add a red cooler on the empty grass in the lower right of the photo.",
+    "Replace the black guitar case with a wooden crate.",
+    "Replace the leather guitar strap on the man's shoulder with a thick rope strap.",
+    "Replace the acoustic guitar the man is playing with a ukulele.",
+    "Replace the beige canopy at the top of the photo with a white tent roof.",
+    "Change the color of the man's t-shirt to green."
+   ]
+  },
+  {
+   "id": "c26",
+   "instructions": [
+    "Add a small potted plant in the empty gray background at the top left corner.",
+    "Change the color of the leather brown seat to red.",
+    "Add a small orange traffic cone in the empty gray background at the lower left corner.",
+    "Make the metal black bracket look like it is made of brass.",
+    "Change the color of the plastic black headlight to blue.",
+    "Change the material of the seat to a soft woven fabric.",
+    "Replace the metal bracket on the front of the scooter with a leather strap.",
+    "Replace the seat of the scooter with a folded gray blanket.",
+    "Add a small white seagull in the empty gray background area on the left side.",
+    "Change the material of the headlight to frosted glass."
+   ]
+  },
+  {
+   "id": "c27",
+   "instructions": [
+    "Add a small potted plant on the floor to the right of the white pillows.",
+    "Add a framed picture on the empty wall above the white pillows.",
+    "Change the color of the throw blanket draped over the pillows to green.",
+    "Add a round wall clock on the empty wall in the upper right area.",
+    "Change the material of both white pillows to leather.",
+    "Add a small wooden stool on the open floor in the center of the room.",
+    "Change the material of the throw blanket to chunky knitted wool.",
+    "Change the color of both leather pillows to gray.",
+    "Replace the throw blanket draped over the pillows with a folded towel.",
+    "Add a tall ceramic vase with dried branches on the floor near the back wall corner."
+   ]
+  },
+  {
+   "id": "c28",
+   "instructions": [
+    "Paint the large blue bus in the foreground red.",
+    "Add a flock of birds flying in the sky above the tree.",
+    "Make the radiator grille on the front of the foreground bus shiny chrome.",
+    "Change the leaves of the tree on the left to orange.",
+    "Add a hot air balloon in the empty sky to the right of the tree.",
+    "Remove the blue and yellow bus driving on the left side of the road.",
+    "Replace the tree on the left with a tall water tower.",
+    "Add a cow standing on the dirt road to the left of the foreground bus.",
+    "Make the body of the foreground bus look like brushed aluminum.",
+    "Replace the radiator grille on the front of the bus with a black mesh panel."
+   ]
+  },
+  {
+   "id": "c29",
+   "instructions": [
+    "Change the color of the light blue jeans to green.",
+    "Add a small framed picture on the tiled wall to the left of the jeans.",
+    "Make the black bomber jacket look like it is made of leather.",
+    "Change the color of the bomber jacket to red.",
+    "Add a small wooden wall shelf on the empty tiled wall to the right of the jeans.",
+    "Make the gray jacket hanging at the right edge look like it is made of wool.",
+    "Change the color of the jacket hanging at the right edge to brown.",
+    "Remove the brown jacket hanging at the right edge of the image.",
+    "Add a small round wall clock on the empty tiled wall in the upper left corner.",
+    "Replace the green jeans with navy chinos."
+   ]
+  },
+  {
+   "id": "c30",
+   "instructions": [
+    "Change the gray hooded sweatshirt to green.",
+    "Add a small white soap dish on the tiled wall to the right of the shower fixture.",
+    "Add a small round wall clock on the tiled wall above the shower hose.",
+    "Add a wall-mounted toothbrush holder on the tiles below the shower hose.",
+    "Make the shower fixture on the left wall look like polished brass.",
+    "Replace the shower hose with a green garden hose.",
+    "Make the green hooded sweatshirt look like thick knitted wool.",
+    "Replace the brass shower fixture on the left wall with a chrome thermostatic shower mixer.",
+    "Replace the knitted hooded sweatshirt with a blue denim jacket.",
+    "Replace the frosted glass panel on the right with a clear glass panel."
+   ]
+  }
+ ],
+ "slots": [
+  [
+   {
+    "chain": 0,
+    "A": "692c",
+    "B": "d192"
+   },
+   {
+    "chain": 1,
+    "A": "80b1",
+    "B": "692c"
+   },
+   {
+    "chain": 2,
+    "A": "692c",
+    "B": "4ea3"
+   },
+   {
+    "chain": 3,
+    "A": "b8cc",
+    "B": "692c"
+   },
+   {
+    "chain": 4,
+    "A": "692c",
+    "B": "ef65"
+   },
+   {
+    "chain": 5,
+    "A": "58c4",
+    "B": "692c"
+   },
+   {
+    "chain": 6,
+    "A": "692c",
+    "B": "d192"
+   },
+   {
+    "chain": 7,
+    "A": "80b1",
+    "B": "692c"
+   },
+   {
+    "chain": 8,
+    "A": "692c",
+    "B": "4ea3"
+   },
+   {
+    "chain": 9,
+    "A": "b8cc",
+    "B": "692c"
+   },
+   {
+    "chain": 10,
+    "A": "692c",
+    "B": "ef65"
+   },
+   {
+    "chain": 11,
+    "A": "58c4",
+    "B": "692c"
+   },
+   {
+    "chain": 12,
+    "A": "692c",
+    "B": "d192"
+   },
+   {
+    "chain": 13,
+    "A": "80b1",
+    "B": "692c"
+   },
+   {
+    "chain": 14,
+    "A": "692c",
+    "B": "4ea3"
+   }
+  ],
+  [
+   {
+    "chain": 15,
+    "A": "692c",
+    "B": "d192"
+   },
+   {
+    "chain": 16,
+    "A": "80b1",
+    "B": "692c"
+   },
+   {
+    "chain": 17,
+    "A": "692c",
+    "B": "4ea3"
+   },
+   {
+    "chain": 18,
+    "A": "b8cc",
+    "B": "692c"
+   },
+   {
+    "chain": 19,
+    "A": "692c",
+    "B": "ef65"
+   },
+   {
+    "chain": 20,
+    "A": "58c4",
+    "B": "692c"
+   },
+   {
+    "chain": 21,
+    "A": "692c",
+    "B": "d192"
+   },
+   {
+    "chain": 22,
+    "A": "80b1",
+    "B": "692c"
+   },
+   {
+    "chain": 23,
+    "A": "692c",
+    "B": "4ea3"
+   },
+   {
+    "chain": 24,
+    "A": "b8cc",
+    "B": "692c"
+   },
+   {
+    "chain": 25,
+    "A": "692c",
+    "B": "ef65"
+   },
+   {
+    "chain": 26,
+    "A": "58c4",
+    "B": "692c"
+   },
+   {
+    "chain": 27,
+    "A": "692c",
+    "B": "d192"
+   },
+   {
+    "chain": 28,
+    "A": "80b1",
+    "B": "692c"
+   },
+   {
+    "chain": 29,
+    "A": "692c",
+    "B": "4ea3"
+   }
+  ],
+  [
+   {
+    "chain": 0,
+    "A": "692c",
+    "B": "80b1"
+   },
+   {
+    "chain": 1,
+    "A": "4ea3",
+    "B": "692c"
+   },
+   {
+    "chain": 2,
+    "A": "692c",
+    "B": "b8cc"
+   },
+   {
+    "chain": 3,
+    "A": "ef65",
+    "B": "692c"
+   },
+   {
+    "chain": 4,
+    "A": "692c",
+    "B": "58c4"
+   },
+   {
+    "chain": 5,
+    "A": "d192",
+    "B": "692c"
+   },
+   {
+    "chain": 6,
+    "A": "692c",
+    "B": "80b1"
+   },
+   {
+    "chain": 7,
+    "A": "4ea3",
+    "B": "692c"
+   },
+   {
+    "chain": 8,
+    "A": "692c",
+    "B": "b8cc"
+   },
+   {
+    "chain": 9,
+    "A": "ef65",
+    "B": "692c"
+   },
+   {
+    "chain": 10,
+    "A": "692c",
+    "B": "58c4"
+   },
+   {
+    "chain": 11,
+    "A": "d192",
+    "B": "692c"
+   },
+   {
+    "chain": 12,
+    "A": "692c",
+    "B": "80b1"
+   },
+   {
+    "chain": 13,
+    "A": "4ea3",
+    "B": "692c"
+   },
+   {
+    "chain": 14,
+    "A": "692c",
+    "B": "b8cc"
+   }
+  ],
+  [
+   {
+    "chain": 15,
+    "A": "692c",
+    "B": "80b1"
+   },
+   {
+    "chain": 16,
+    "A": "4ea3",
+    "B": "692c"
+   },
+   {
+    "chain": 17,
+    "A": "692c",
+    "B": "b8cc"
+   },
+   {
+    "chain": 18,
+    "A": "ef65",
+    "B": "692c"
+   },
+   {
+    "chain": 19,
+    "A": "692c",
+    "B": "58c4"
+   },
+   {
+    "chain": 20,
+    "A": "d192",
+    "B": "692c"
+   },
+   {
+    "chain": 21,
+    "A": "692c",
+    "B": "80b1"
+   },
+   {
+    "chain": 22,
+    "A": "4ea3",
+    "B": "692c"
+   },
+   {
+    "chain": 23,
+    "A": "692c",
+    "B": "b8cc"
+   },
+   {
+    "chain": 24,
+    "A": "ef65",
+    "B": "692c"
+   },
+   {
+    "chain": 25,
+    "A": "692c",
+    "B": "58c4"
+   },
+   {
+    "chain": 26,
+    "A": "d192",
+    "B": "692c"
+   },
+   {
+    "chain": 27,
+    "A": "692c",
+    "B": "80b1"
+   },
+   {
+    "chain": 28,
+    "A": "4ea3",
+    "B": "692c"
+   },
+   {
+    "chain": 29,
+    "A": "692c",
+    "B": "b8cc"
+   }
+  ],
+  [
+   {
+    "chain": 0,
+    "A": "692c",
+    "B": "4ea3"
+   },
+   {
+    "chain": 1,
+    "A": "b8cc",
+    "B": "692c"
+   },
+   {
+    "chain": 2,
+    "A": "692c",
+    "B": "ef65"
+   },
+   {
+    "chain": 3,
+    "A": "58c4",
+    "B": "692c"
+   },
+   {
+    "chain": 4,
+    "A": "692c",
+    "B": "d192"
+   },
+   {
+    "chain": 5,
+    "A": "80b1",
+    "B": "692c"
+   },
+   {
+    "chain": 6,
+    "A": "692c",
+    "B": "4ea3"
+   },
+   {
+    "chain": 7,
+    "A": "b8cc",
+    "B": "692c"
+   },
+   {
+    "chain": 8,
+    "A": "692c",
+    "B": "ef65"
+   },
+   {
+    "chain": 9,
+    "A": "58c4",
+    "B": "692c"
+   },
+   {
+    "chain": 10,
+    "A": "692c",
+    "B": "d192"
+   },
+   {
+    "chain": 11,
+    "A": "80b1",
+    "B": "692c"
+   },
+   {
+    "chain": 12,
+    "A": "692c",
+    "B": "4ea3"
+   },
+   {
+    "chain": 13,
+    "A": "b8cc",
+    "B": "692c"
+   },
+   {
+    "chain": 14,
+    "A": "692c",
+    "B": "ef65"
+   }
+  ],
+  [
+   {
+    "chain": 15,
+    "A": "692c",
+    "B": "4ea3"
+   },
+   {
+    "chain": 16,
+    "A": "b8cc",
+    "B": "692c"
+   },
+   {
+    "chain": 17,
+    "A": "692c",
+    "B": "ef65"
+   },
+   {
+    "chain": 18,
+    "A": "58c4",
+    "B": "692c"
+   },
+   {
+    "chain": 19,
+    "A": "692c",
+    "B": "d192"
+   },
+   {
+    "chain": 20,
+    "A": "80b1",
+    "B": "692c"
+   },
+   {
+    "chain": 21,
+    "A": "692c",
+    "B": "4ea3"
+   },
+   {
+    "chain": 22,
+    "A": "b8cc",
+    "B": "692c"
+   },
+   {
+    "chain": 23,
+    "A": "692c",
+    "B": "ef65"
+   },
+   {
+    "chain": 24,
+    "A": "58c4",
+    "B": "692c"
+   },
+   {
+    "chain": 25,
+    "A": "692c",
+    "B": "d192"
+   },
+   {
+    "chain": 26,
+    "A": "80b1",
+    "B": "692c"
+   },
+   {
+    "chain": 27,
+    "A": "692c",
+    "B": "4ea3"
+   },
+   {
+    "chain": 28,
+    "A": "b8cc",
+    "B": "692c"
+   },
+   {
+    "chain": 29,
+    "A": "692c",
+    "B": "ef65"
+   }
+  ],
+  [
+   {
+    "chain": 0,
+    "A": "692c",
+    "B": "b8cc"
+   },
+   {
+    "chain": 1,
+    "A": "ef65",
+    "B": "692c"
+   },
+   {
+    "chain": 2,
+    "A": "692c",
+    "B": "58c4"
+   },
+   {
+    "chain": 3,
+    "A": "d192",
+    "B": "692c"
+   },
+   {
+    "chain": 4,
+    "A": "692c",
+    "B": "80b1"
+   },
+   {
+    "chain": 5,
+    "A": "4ea3",
+    "B": "692c"
+   },
+   {
+    "chain": 6,
+    "A": "692c",
+    "B": "b8cc"
+   },
+   {
+    "chain": 7,
+    "A": "ef65",
+    "B": "692c"
+   },
+   {
+    "chain": 8,
+    "A": "692c",
+    "B": "58c4"
+   },
+   {
+    "chain": 9,
+    "A": "d192",
+    "B": "692c"
+   },
+   {
+    "chain": 10,
+    "A": "692c",
+    "B": "80b1"
+   },
+   {
+    "chain": 11,
+    "A": "4ea3",
+    "B": "692c"
+   },
+   {
+    "chain": 12,
+    "A": "692c",
+    "B": "b8cc"
+   },
+   {
+    "chain": 13,
+    "A": "ef65",
+    "B": "692c"
+   },
+   {
+    "chain": 14,
+    "A": "692c",
+    "B": "58c4"
+   }
+  ],
+  [
+   {
+    "chain": 15,
+    "A": "692c",
+    "B": "b8cc"
+   },
+   {
+    "chain": 16,
+    "A": "ef65",
+    "B": "692c"
+   },
+   {
+    "chain": 17,
+    "A": "692c",
+    "B": "58c4"
+   },
+   {
+    "chain": 18,
+    "A": "d192",
+    "B": "692c"
+   },
+   {
+    "chain": 19,
+    "A": "692c",
+    "B": "80b1"
+   },
+   {
+    "chain": 20,
+    "A": "4ea3",
+    "B": "692c"
+   },
+   {
+    "chain": 21,
+    "A": "692c",
+    "B": "b8cc"
+   },
+   {
+    "chain": 22,
+    "A": "ef65",
+    "B": "692c"
+   },
+   {
+    "chain": 23,
+    "A": "692c",
+    "B": "58c4"
+   },
+   {
+    "chain": 24,
+    "A": "d192",
+    "B": "692c"
+   },
+   {
+    "chain": 25,
+    "A": "692c",
+    "B": "80b1"
+   },
+   {
+    "chain": 26,
+    "A": "4ea3",
+    "B": "692c"
+   },
+   {
+    "chain": 27,
+    "A": "692c",
+    "B": "b8cc"
+   },
+   {
+    "chain": 28,
+    "A": "ef65",
+    "B": "692c"
+   },
+   {
+    "chain": 29,
+    "A": "692c",
+    "B": "58c4"
+   }
+  ],
+  [
+   {
+    "chain": 0,
+    "A": "692c",
+    "B": "ef65"
+   },
+   {
+    "chain": 1,
+    "A": "58c4",
+    "B": "692c"
+   },
+   {
+    "chain": 2,
+    "A": "692c",
+    "B": "d192"
+   },
+   {
+    "chain": 3,
+    "A": "80b1",
+    "B": "692c"
+   },
+   {
+    "chain": 4,
+    "A": "692c",
+    "B": "4ea3"
+   },
+   {
+    "chain": 5,
+    "A": "b8cc",
+    "B": "692c"
+   },
+   {
+    "chain": 6,
+    "A": "692c",
+    "B": "ef65"
+   },
+   {
+    "chain": 7,
+    "A": "58c4",
+    "B": "692c"
+   },
+   {
+    "chain": 8,
+    "A": "692c",
+    "B": "d192"
+   },
+   {
+    "chain": 9,
+    "A": "80b1",
+    "B": "692c"
+   },
+   {
+    "chain": 10,
+    "A": "692c",
+    "B": "4ea3"
+   },
+   {
+    "chain": 11,
+    "A": "b8cc",
+    "B": "692c"
+   },
+   {
+    "chain": 12,
+    "A": "692c",
+    "B": "ef65"
+   },
+   {
+    "chain": 13,
+    "A": "58c4",
+    "B": "692c"
+   },
+   {
+    "chain": 14,
+    "A": "692c",
+    "B": "d192"
+   }
+  ],
+  [
+   {
+    "chain": 15,
+    "A": "692c",
+    "B": "ef65"
+   },
+   {
+    "chain": 16,
+    "A": "58c4",
+    "B": "692c"
+   },
+   {
+    "chain": 17,
+    "A": "692c",
+    "B": "d192"
+   },
+   {
+    "chain": 18,
+    "A": "80b1",
+    "B": "692c"
+   },
+   {
+    "chain": 19,
+    "A": "692c",
+    "B": "4ea3"
+   },
+   {
+    "chain": 20,
+    "A": "b8cc",
+    "B": "692c"
+   },
+   {
+    "chain": 21,
+    "A": "692c",
+    "B": "ef65"
+   },
+   {
+    "chain": 22,
+    "A": "58c4",
+    "B": "692c"
+   },
+   {
+    "chain": 23,
+    "A": "692c",
+    "B": "d192"
+   },
+   {
+    "chain": 24,
+    "A": "80b1",
+    "B": "692c"
+   },
+   {
+    "chain": 25,
+    "A": "692c",
+    "B": "4ea3"
+   },
+   {
+    "chain": 26,
+    "A": "b8cc",
+    "B": "692c"
+   },
+   {
+    "chain": 27,
+    "A": "692c",
+    "B": "ef65"
+   },
+   {
+    "chain": 28,
+    "A": "58c4",
+    "B": "692c"
+   },
+   {
+    "chain": 29,
+    "A": "692c",
+    "B": "d192"
+   }
+  ],
+  [
+   {
+    "chain": 0,
+    "A": "692c",
+    "B": "58c4"
+   },
+   {
+    "chain": 1,
+    "A": "d192",
+    "B": "692c"
+   },
+   {
+    "chain": 2,
+    "A": "692c",
+    "B": "80b1"
+   },
+   {
+    "chain": 3,
+    "A": "4ea3",
+    "B": "692c"
+   },
+   {
+    "chain": 4,
+    "A": "692c",
+    "B": "b8cc"
+   },
+   {
+    "chain": 5,
+    "A": "ef65",
+    "B": "692c"
+   },
+   {
+    "chain": 6,
+    "A": "692c",
+    "B": "58c4"
+   },
+   {
+    "chain": 7,
+    "A": "d192",
+    "B": "692c"
+   },
+   {
+    "chain": 8,
+    "A": "692c",
+    "B": "80b1"
+   },
+   {
+    "chain": 9,
+    "A": "4ea3",
+    "B": "692c"
+   },
+   {
+    "chain": 10,
+    "A": "692c",
+    "B": "b8cc"
+   },
+   {
+    "chain": 11,
+    "A": "ef65",
+    "B": "692c"
+   },
+   {
+    "chain": 12,
+    "A": "692c",
+    "B": "58c4"
+   },
+   {
+    "chain": 13,
+    "A": "d192",
+    "B": "692c"
+   },
+   {
+    "chain": 14,
+    "A": "692c",
+    "B": "80b1"
+   }
+  ],
+  [
+   {
+    "chain": 15,
+    "A": "692c",
+    "B": "58c4"
+   },
+   {
+    "chain": 16,
+    "A": "d192",
+    "B": "692c"
+   },
+   {
+    "chain": 17,
+    "A": "692c",
+    "B": "80b1"
+   },
+   {
+    "chain": 18,
+    "A": "4ea3",
+    "B": "692c"
+   },
+   {
+    "chain": 19,
+    "A": "692c",
+    "B": "b8cc"
+   },
+   {
+    "chain": 20,
+    "A": "ef65",
+    "B": "692c"
+   },
+   {
+    "chain": 21,
+    "A": "692c",
+    "B": "58c4"
+   },
+   {
+    "chain": 22,
+    "A": "d192",
+    "B": "692c"
+   },
+   {
+    "chain": 23,
+    "A": "692c",
+    "B": "80b1"
+   },
+   {
+    "chain": 24,
+    "A": "4ea3",
+    "B": "692c"
+   },
+   {
+    "chain": 25,
+    "A": "692c",
+    "B": "b8cc"
+   },
+   {
+    "chain": 26,
+    "A": "ef65",
+    "B": "692c"
+   },
+   {
+    "chain": 27,
+    "A": "692c",
+    "B": "58c4"
+   },
+   {
+    "chain": 28,
+    "A": "d192",
+    "B": "692c"
+   },
+   {
+    "chain": 29,
+    "A": "692c",
+    "B": "80b1"
+   }
+  ],
+  [
+   {
+    "chain": 0,
+    "A": "d192",
+    "B": "692c"
+   },
+   {
+    "chain": 1,
+    "A": "692c",
+    "B": "80b1"
+   },
+   {
+    "chain": 2,
+    "A": "4ea3",
+    "B": "692c"
+   },
+   {
+    "chain": 3,
+    "A": "692c",
+    "B": "b8cc"
+   },
+   {
+    "chain": 4,
+    "A": "ef65",
+    "B": "692c"
+   },
+   {
+    "chain": 5,
+    "A": "692c",
+    "B": "58c4"
+   },
+   {
+    "chain": 6,
+    "A": "d192",
+    "B": "692c"
+   },
+   {
+    "chain": 7,
+    "A": "692c",
+    "B": "80b1"
+   },
+   {
+    "chain": 8,
+    "A": "4ea3",
+    "B": "692c"
+   },
+   {
+    "chain": 9,
+    "A": "692c",
+    "B": "b8cc"
+   },
+   {
+    "chain": 10,
+    "A": "ef65",
+    "B": "692c"
+   },
+   {
+    "chain": 11,
+    "A": "692c",
+    "B": "58c4"
+   },
+   {
+    "chain": 12,
+    "A": "d192",
+    "B": "692c"
+   },
+   {
+    "chain": 13,
+    "A": "692c",
+    "B": "80b1"
+   },
+   {
+    "chain": 14,
+    "A": "4ea3",
+    "B": "692c"
+   }
+  ],
+  [
+   {
+    "chain": 15,
+    "A": "d192",
+    "B": "692c"
+   },
+   {
+    "chain": 16,
+    "A": "692c",
+    "B": "80b1"
+   },
+   {
+    "chain": 17,
+    "A": "4ea3",
+    "B": "692c"
+   },
+   {
+    "chain": 18,
+    "A": "692c",
+    "B": "b8cc"
+   },
+   {
+    "chain": 19,
+    "A": "ef65",
+    "B": "692c"
+   },
+   {
+    "chain": 20,
+    "A": "692c",
+    "B": "58c4"
+   },
+   {
+    "chain": 21,
+    "A": "d192",
+    "B": "692c"
+   },
+   {
+    "chain": 22,
+    "A": "692c",
+    "B": "80b1"
+   },
+   {
+    "chain": 23,
+    "A": "4ea3",
+    "B": "692c"
+   },
+   {
+    "chain": 24,
+    "A": "692c",
+    "B": "b8cc"
+   },
+   {
+    "chain": 25,
+    "A": "ef65",
+    "B": "692c"
+   },
+   {
+    "chain": 26,
+    "A": "692c",
+    "B": "58c4"
+   },
+   {
+    "chain": 27,
+    "A": "d192",
+    "B": "692c"
+   },
+   {
+    "chain": 28,
+    "A": "692c",
+    "B": "80b1"
+   },
+   {
+    "chain": 29,
+    "A": "4ea3",
+    "B": "692c"
+   }
+  ],
+  [
+   {
+    "chain": 0,
+    "A": "80b1",
+    "B": "692c"
+   },
+   {
+    "chain": 1,
+    "A": "692c",
+    "B": "4ea3"
+   },
+   {
+    "chain": 2,
+    "A": "b8cc",
+    "B": "692c"
+   },
+   {
+    "chain": 3,
+    "A": "692c",
+    "B": "ef65"
+   },
+   {
+    "chain": 4,
+    "A": "58c4",
+    "B": "692c"
+   },
+   {
+    "chain": 5,
+    "A": "692c",
+    "B": "d192"
+   },
+   {
+    "chain": 6,
+    "A": "80b1",
+    "B": "692c"
+   },
+   {
+    "chain": 7,
+    "A": "692c",
+    "B": "4ea3"
+   },
+   {
+    "chain": 8,
+    "A": "b8cc",
+    "B": "692c"
+   },
+   {
+    "chain": 9,
+    "A": "692c",
+    "B": "ef65"
+   },
+   {
+    "chain": 10,
+    "A": "58c4",
+    "B": "692c"
+   },
+   {
+    "chain": 11,
+    "A": "692c",
+    "B": "d192"
+   },
+   {
+    "chain": 12,
+    "A": "80b1",
+    "B": "692c"
+   },
+   {
+    "chain": 13,
+    "A": "692c",
+    "B": "4ea3"
+   },
+   {
+    "chain": 14,
+    "A": "b8cc",
+    "B": "692c"
+   }
+  ],
+  [
+   {
+    "chain": 15,
+    "A": "80b1",
+    "B": "692c"
+   },
+   {
+    "chain": 16,
+    "A": "692c",
+    "B": "4ea3"
+   },
+   {
+    "chain": 17,
+    "A": "b8cc",
+    "B": "692c"
+   },
+   {
+    "chain": 18,
+    "A": "692c",
+    "B": "ef65"
+   },
+   {
+    "chain": 19,
+    "A": "58c4",
+    "B": "692c"
+   },
+   {
+    "chain": 20,
+    "A": "692c",
+    "B": "d192"
+   },
+   {
+    "chain": 21,
+    "A": "80b1",
+    "B": "692c"
+   },
+   {
+    "chain": 22,
+    "A": "692c",
+    "B": "4ea3"
+   },
+   {
+    "chain": 23,
+    "A": "b8cc",
+    "B": "692c"
+   },
+   {
+    "chain": 24,
+    "A": "692c",
+    "B": "ef65"
+   },
+   {
+    "chain": 25,
+    "A": "58c4",
+    "B": "692c"
+   },
+   {
+    "chain": 26,
+    "A": "692c",
+    "B": "d192"
+   },
+   {
+    "chain": 27,
+    "A": "80b1",
+    "B": "692c"
+   },
+   {
+    "chain": 28,
+    "A": "692c",
+    "B": "4ea3"
+   },
+   {
+    "chain": 29,
+    "A": "b8cc",
+    "B": "692c"
+   }
+  ],
+  [
+   {
+    "chain": 0,
+    "A": "4ea3",
+    "B": "692c"
+   },
+   {
+    "chain": 1,
+    "A": "692c",
+    "B": "b8cc"
+   },
+   {
+    "chain": 2,
+    "A": "ef65",
+    "B": "692c"
+   },
+   {
+    "chain": 3,
+    "A": "692c",
+    "B": "58c4"
+   },
+   {
+    "chain": 4,
+    "A": "d192",
+    "B": "692c"
+   },
+   {
+    "chain": 5,
+    "A": "692c",
+    "B": "80b1"
+   },
+   {
+    "chain": 6,
+    "A": "4ea3",
+    "B": "692c"
+   },
+   {
+    "chain": 7,
+    "A": "692c",
+    "B": "b8cc"
+   },
+   {
+    "chain": 8,
+    "A": "ef65",
+    "B": "692c"
+   },
+   {
+    "chain": 9,
+    "A": "692c",
+    "B": "58c4"
+   },
+   {
+    "chain": 10,
+    "A": "d192",
+    "B": "692c"
+   },
+   {
+    "chain": 11,
+    "A": "692c",
+    "B": "80b1"
+   },
+   {
+    "chain": 12,
+    "A": "4ea3",
+    "B": "692c"
+   },
+   {
+    "chain": 13,
+    "A": "692c",
+    "B": "b8cc"
+   },
+   {
+    "chain": 14,
+    "A": "ef65",
+    "B": "692c"
+   }
+  ],
+  [
+   {
+    "chain": 15,
+    "A": "4ea3",
+    "B": "692c"
+   },
+   {
+    "chain": 16,
+    "A": "692c",
+    "B": "b8cc"
+   },
+   {
+    "chain": 17,
+    "A": "ef65",
+    "B": "692c"
+   },
+   {
+    "chain": 18,
+    "A": "692c",
+    "B": "58c4"
+   },
+   {
+    "chain": 19,
+    "A": "d192",
+    "B": "692c"
+   },
+   {
+    "chain": 20,
+    "A": "692c",
+    "B": "80b1"
+   },
+   {
+    "chain": 21,
+    "A": "4ea3",
+    "B": "692c"
+   },
+   {
+    "chain": 22,
+    "A": "692c",
+    "B": "b8cc"
+   },
+   {
+    "chain": 23,
+    "A": "ef65",
+    "B": "692c"
+   },
+   {
+    "chain": 24,
+    "A": "692c",
+    "B": "58c4"
+   },
+   {
+    "chain": 25,
+    "A": "d192",
+    "B": "692c"
+   },
+   {
+    "chain": 26,
+    "A": "692c",
+    "B": "80b1"
+   },
+   {
+    "chain": 27,
+    "A": "4ea3",
+    "B": "692c"
+   },
+   {
+    "chain": 28,
+    "A": "692c",
+    "B": "b8cc"
+   },
+   {
+    "chain": 29,
+    "A": "ef65",
+    "B": "692c"
+   }
+  ],
+  [
+   {
+    "chain": 0,
+    "A": "b8cc",
+    "B": "692c"
+   },
+   {
+    "chain": 1,
+    "A": "692c",
+    "B": "ef65"
+   },
+   {
+    "chain": 2,
+    "A": "58c4",
+    "B": "692c"
+   },
+   {
+    "chain": 3,
+    "A": "692c",
+    "B": "d192"
+   },
+   {
+    "chain": 4,
+    "A": "80b1",
+    "B": "692c"
+   },
+   {
+    "chain": 5,
+    "A": "692c",
+    "B": "4ea3"
+   },
+   {
+    "chain": 6,
+    "A": "b8cc",
+    "B": "692c"
+   },
+   {
+    "chain": 7,
+    "A": "692c",
+    "B": "ef65"
+   },
+   {
+    "chain": 8,
+    "A": "58c4",
+    "B": "692c"
+   },
+   {
+    "chain": 9,
+    "A": "692c",
+    "B": "d192"
+   },
+   {
+    "chain": 10,
+    "A": "80b1",
+    "B": "692c"
+   },
+   {
+    "chain": 11,
+    "A": "692c",
+    "B": "4ea3"
+   },
+   {
+    "chain": 12,
+    "A": "b8cc",
+    "B": "692c"
+   },
+   {
+    "chain": 13,
+    "A": "692c",
+    "B": "ef65"
+   },
+   {
+    "chain": 14,
+    "A": "58c4",
+    "B": "692c"
+   }
+  ],
+  [
+   {
+    "chain": 15,
+    "A": "b8cc",
+    "B": "692c"
+   },
+   {
+    "chain": 16,
+    "A": "692c",
+    "B": "ef65"
+   },
+   {
+    "chain": 17,
+    "A": "58c4",
+    "B": "692c"
+   },
+   {
+    "chain": 18,
+    "A": "692c",
+    "B": "d192"
+   },
+   {
+    "chain": 19,
+    "A": "80b1",
+    "B": "692c"
+   },
+   {
+    "chain": 20,
+    "A": "692c",
+    "B": "4ea3"
+   },
+   {
+    "chain": 21,
+    "A": "b8cc",
+    "B": "692c"
+   },
+   {
+    "chain": 22,
+    "A": "692c",
+    "B": "ef65"
+   },
+   {
+    "chain": 23,
+    "A": "58c4",
+    "B": "692c"
+   },
+   {
+    "chain": 24,
+    "A": "692c",
+    "B": "d192"
+   },
+   {
+    "chain": 25,
+    "A": "80b1",
+    "B": "692c"
+   },
+   {
+    "chain": 26,
+    "A": "692c",
+    "B": "4ea3"
+   },
+   {
+    "chain": 27,
+    "A": "b8cc",
+    "B": "692c"
+   },
+   {
+    "chain": 28,
+    "A": "692c",
+    "B": "ef65"
+   },
+   {
+    "chain": 29,
+    "A": "58c4",
+    "B": "692c"
+   }
+  ],
+  [
+   {
+    "chain": 0,
+    "A": "ef65",
+    "B": "692c"
+   },
+   {
+    "chain": 1,
+    "A": "692c",
+    "B": "58c4"
+   },
+   {
+    "chain": 2,
+    "A": "d192",
+    "B": "692c"
+   },
+   {
+    "chain": 3,
+    "A": "692c",
+    "B": "80b1"
+   },
+   {
+    "chain": 4,
+    "A": "4ea3",
+    "B": "692c"
+   },
+   {
+    "chain": 5,
+    "A": "692c",
+    "B": "b8cc"
+   },
+   {
+    "chain": 6,
+    "A": "ef65",
+    "B": "692c"
+   },
+   {
+    "chain": 7,
+    "A": "692c",
+    "B": "58c4"
+   },
+   {
+    "chain": 8,
+    "A": "d192",
+    "B": "692c"
+   },
+   {
+    "chain": 9,
+    "A": "692c",
+    "B": "80b1"
+   },
+   {
+    "chain": 10,
+    "A": "4ea3",
+    "B": "692c"
+   },
+   {
+    "chain": 11,
+    "A": "692c",
+    "B": "b8cc"
+   },
+   {
+    "chain": 12,
+    "A": "ef65",
+    "B": "692c"
+   },
+   {
+    "chain": 13,
+    "A": "692c",
+    "B": "58c4"
+   },
+   {
+    "chain": 14,
+    "A": "d192",
+    "B": "692c"
+   }
+  ],
+  [
+   {
+    "chain": 15,
+    "A": "ef65",
+    "B": "692c"
+   },
+   {
+    "chain": 16,
+    "A": "692c",
+    "B": "58c4"
+   },
+   {
+    "chain": 17,
+    "A": "d192",
+    "B": "692c"
+   },
+   {
+    "chain": 18,
+    "A": "692c",
+    "B": "80b1"
+   },
+   {
+    "chain": 19,
+    "A": "4ea3",
+    "B": "692c"
+   },
+   {
+    "chain": 20,
+    "A": "692c",
+    "B": "b8cc"
+   },
+   {
+    "chain": 21,
+    "A": "ef65",
+    "B": "692c"
+   },
+   {
+    "chain": 22,
+    "A": "692c",
+    "B": "58c4"
+   },
+   {
+    "chain": 23,
+    "A": "d192",
+    "B": "692c"
+   },
+   {
+    "chain": 24,
+    "A": "692c",
+    "B": "80b1"
+   },
+   {
+    "chain": 25,
+    "A": "4ea3",
+    "B": "692c"
+   },
+   {
+    "chain": 26,
+    "A": "692c",
+    "B": "b8cc"
+   },
+   {
+    "chain": 27,
+    "A": "ef65",
+    "B": "692c"
+   },
+   {
+    "chain": 28,
+    "A": "692c",
+    "B": "58c4"
+   },
+   {
+    "chain": 29,
+    "A": "d192",
+    "B": "692c"
+   }
+  ],
+  [
+   {
+    "chain": 0,
+    "A": "58c4",
+    "B": "692c"
+   },
+   {
+    "chain": 1,
+    "A": "692c",
+    "B": "d192"
+   },
+   {
+    "chain": 2,
+    "A": "80b1",
+    "B": "692c"
+   },
+   {
+    "chain": 3,
+    "A": "692c",
+    "B": "4ea3"
+   },
+   {
+    "chain": 4,
+    "A": "b8cc",
+    "B": "692c"
+   },
+   {
+    "chain": 5,
+    "A": "692c",
+    "B": "ef65"
+   },
+   {
+    "chain": 6,
+    "A": "58c4",
+    "B": "692c"
+   },
+   {
+    "chain": 7,
+    "A": "692c",
+    "B": "d192"
+   },
+   {
+    "chain": 8,
+    "A": "80b1",
+    "B": "692c"
+   },
+   {
+    "chain": 9,
+    "A": "692c",
+    "B": "4ea3"
+   },
+   {
+    "chain": 10,
+    "A": "b8cc",
+    "B": "692c"
+   },
+   {
+    "chain": 11,
+    "A": "692c",
+    "B": "ef65"
+   },
+   {
+    "chain": 12,
+    "A": "58c4",
+    "B": "692c"
+   },
+   {
+    "chain": 13,
+    "A": "692c",
+    "B": "d192"
+   },
+   {
+    "chain": 14,
+    "A": "80b1",
+    "B": "692c"
+   }
+  ],
+  [
+   {
+    "chain": 15,
+    "A": "58c4",
+    "B": "692c"
+   },
+   {
+    "chain": 16,
+    "A": "692c",
+    "B": "d192"
+   },
+   {
+    "chain": 17,
+    "A": "80b1",
+    "B": "692c"
+   },
+   {
+    "chain": 18,
+    "A": "692c",
+    "B": "4ea3"
+   },
+   {
+    "chain": 19,
+    "A": "b8cc",
+    "B": "692c"
+   },
+   {
+    "chain": 20,
+    "A": "692c",
+    "B": "ef65"
+   },
+   {
+    "chain": 21,
+    "A": "58c4",
+    "B": "692c"
+   },
+   {
+    "chain": 22,
+    "A": "692c",
+    "B": "d192"
+   },
+   {
+    "chain": 23,
+    "A": "80b1",
+    "B": "692c"
+   },
+   {
+    "chain": 24,
+    "A": "692c",
+    "B": "4ea3"
+   },
+   {
+    "chain": 25,
+    "A": "b8cc",
+    "B": "692c"
+   },
+   {
+    "chain": 26,
+    "A": "692c",
+    "B": "ef65"
+   },
+   {
+    "chain": 27,
+    "A": "58c4",
+    "B": "692c"
+   },
+   {
+    "chain": 28,
+    "A": "692c",
+    "B": "d192"
+   },
+   {
+    "chain": 29,
+    "A": "80b1",
+    "B": "692c"
+   }
+  ]
+ ]
+}

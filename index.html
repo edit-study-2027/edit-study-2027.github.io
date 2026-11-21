@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en" dir="ltr" translate="no" class="notranslate">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="google" content="notranslate">
+<meta name="robots" content="noindex">
+<title>Multi-Turn Editing Study</title>
+<link rel="stylesheet" href="style.css?v=11">
+</head>
+<body dir="ltr">
+<main id="app" dir="ltr">
+
+<section id="intro" class="screen">
+  <h1>Multi-turn image editing study</h1>
+  <p>Thank you for helping! This takes about <b>10 minutes</b>. Please use a computer rather than a phone.</p>
+  <p>On each screen you will see an <b>original image</b> and two results, <span class="tag a">A</span> and <span class="tag b">B</span>.
+    Both were made by applying the same <b>10 edit instructions one after another</b> to the original.
+    Use the slider (or the <b>Previous edit</b> / <b>Next edit</b> buttons next to it) to step through the edits; the instruction of the edit you are looking at is shown above the slider.</p>
+  <p>For each comparison, answer three questions:</p>
+  <ol>
+    <li><b>Image quality</b> &ndash; looking at A and B <b>on their own</b>, which looks more natural, throughout the edits and especially at the last edit? Look for:
+      <ul>
+        <li>patchy areas</li>
+        <li>unnatural-looking parts</li>
+        <li>artifacts</li>
+        <li>blur</li>
+      </ul>
+    </li>
+    <li><b>Instruction following</b> &ndash; which result better carries out the edit instructions? Did each edit take effect, on the right object?
+      An edit can be done in more than one way; any reasonable way counts.</li>
+    <li><b>Preservation</b> &ndash; <b>compared with the original</b>, which result better keeps the parts that no instruction asked to change (people, background, other objects)?</li>
+  </ol>
+  <p><i>A result can follow every instruction and still look patchy or unnatural; that counts against it on image quality.</i></p>
+  <p>If A and B are about equal on a question, choose <b>About the same</b>. There are no right answers; go with your impression. You can go back to earlier comparisons with the <b>Previous</b> button.</p>
+  <p id="narrow-warning" class="warning" hidden>Your screen is narrow. The images will be small; a computer is recommended.</p>
+  <button id="start" class="primary">Start</button>
+  <p id="start-error" class="warning" hidden></p>
+</section>
+
+<section id="task" class="screen" hidden>
+  <div class="progress"><span id="progress-text"></span><div class="bar"><div id="progress-bar"></div></div></div>
+
+  <div id="pair" class="pair" dir="ltr">
+    <figure class="panel src" id="panel-src">
+      <figcaption><span class="tag src">Original</span></figcaption>
+      <img id="img-src" alt="Original image">
+    </figure>
+    <figure class="panel a" id="panel-a">
+      <figcaption><span class="tag a">A</span></figcaption>
+      <img id="img-a" alt="Result A">
+    </figure>
+    <figure class="panel b" id="panel-b">
+      <figcaption><span class="tag b">B</span></figcaption>
+      <img id="img-b" alt="Result B">
+    </figure>
+  </div>
+
+  <div class="instruction-box">
+    <div id="turn-label" class="turn-label"></div>
+    <div id="instruction" class="instruction"></div>
+  </div>
+
+  <div class="player" dir="ltr">
+    <button id="step-back" type="button" class="step">&#9664; Previous edit</button>
+    <div class="track">
+      <div class="slider-row" dir="ltr">
+        <span class="slider-end">Edit 1</span>
+        <input id="slider" type="range" min="1" max="10" step="1" value="1" dir="ltr" aria-label="Edit number">
+        <span class="slider-end">Edit 10</span>
+      </div>
+      <div id="ticks" class="ticks" dir="ltr"></div>
+    </div>
+    <button id="step" type="button" class="step">Next edit &#9654;</button>
+  </div>
+
+  <div class="qblock">
+    <h2>Questions</h2>
+    <p id="slider-hint" class="hint">Move the slider through the edits to edit 10 to answer the questions.</p>
+    <div id="questions" class="questions" dir="ltr"></div>
+  </div>
+
+  <div class="nav" dir="ltr">
+    <button id="prev">Previous</button>
+    <button id="next" class="primary" disabled>Next</button>
+  </div>
+</section>
+
+<section id="done" class="screen" hidden>
+  <h1>Thank you!</h1>
+  <p id="done-text">Your answers were saved. You can close this page.</p>
+  <p id="done-error" class="warning" hidden></p>
+  <button id="download" hidden>Download answers (preview mode)</button>
+</section>
+
+</main>
+<script src="config.js?v=11"></script>
+<script src="app.js?v=11"></script>
+</body>
+</html>
